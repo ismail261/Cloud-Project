@@ -1,0 +1,6 @@
+I have uploaded AWSGraph war file into aws elastic beanstalk
+so that it runs on cloud.
+
+URL: http://default-environment-j6y7gvgxr8.elasticbeanstalk.com/
+
+In addition, I have given separately html code and csv file from which program reads the data.

@@ -1,0 +1,31 @@
+I have used watchdog to monitor changes
+in the local folder. Please make sure watch
+dog is installed.
+
+To run do the following changes: 
+
+1) Change your app_key and app_secret
+2) Change the value for inputFolder. 
+   Specify the path from where the file has to be read. 
+   Do not change the format.
+3) Change the value for outputFolder. 
+   Specify the path where the file has to be downloaded. 
+   Do not change the format.
+4) Change the value for path. 
+   Specify the path from where the file has to be read. 
+   Do not change the format.
+5) Change the value for gpg_home. 
+   Specify the path for gpg where all keys would be stored. 
+   Do not change the format.
+6) open cmd and go to the folder which contains python file.
+7) "python project1.py" to execute
+
+
+References for code:
+
+https://www.dropbox.com/developers/core/start/python
+https://pythonhosted.org/python-gnupg/
+https://pypi.python.org/pypi/watchdog
+http://stackoverflow.com/questions/18599339/python-watchdog-monitoring-file-for-changes
+
+
